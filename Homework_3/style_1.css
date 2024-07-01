@@ -1,0 +1,30 @@
+body {
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h2,
+div,
+h4 {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+    margin: 7px 5px;
+    padding: 30px;
+    width: 100px;
+    font-weight: bold;
+    border: darkgrey 2px solid;
+    border-radius: 15%;
+}
+
+img {
+    width: 100px;
+    padding-bottom: 15px;
+}
+
+hr {
+    border: none;
+    border-top: darkgrey 2px solid;
+}
